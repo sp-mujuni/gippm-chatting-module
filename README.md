@@ -8,5 +8,5 @@
 - This module runs in the command prompt.
 1. Run the Server class file.
 ****Run the SubClient class (this step is optional, but needed to confirm a successful connection with the server).
-2. Run the SUperClient class file.
+2. Run the SuperClient class file.
 3. Run the SubClient class file.
